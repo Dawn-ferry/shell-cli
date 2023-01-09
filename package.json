@@ -1,0 +1,22 @@
+{
+  "name": "cli",
+  "version": "1.1.0",
+  "description": "cli ",
+  "main": "index.js",
+  "bin": {
+    "codecli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hs",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^9.4.1",
+    "download-git-repo": "^3.0.2",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.2.5",
+    "log-symbols": "^4.1.0"
+  }
+}
