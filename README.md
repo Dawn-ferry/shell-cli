@@ -37,6 +37,13 @@ direct:https://github.com/luochenLing/XXX.git
 最新版本不支持使用require()导入
 "inquirer": "^8.2.5"
 
+
+
+覆盖问题：
+删除node_modules 文件，可能出现权限问题
+解决 ：fs-extra
+rm -rf ./node_modules
+
 ```
 
 #### 美化工具
