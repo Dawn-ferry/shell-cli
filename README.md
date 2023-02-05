@@ -7,7 +7,7 @@
 如何安装？
 
 ```
-npm install coderwhy -g
+npm install codecli -g
 
 ```
 
