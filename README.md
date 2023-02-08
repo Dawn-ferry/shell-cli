@@ -11,12 +11,20 @@ npm install codecli -g
 
 ```
 
-### 目前支持 Vue，后期会支持 React，Angular 考虑中~
+### 目前支持 Vue，后期会新增 React，Angular 相关模版，尽情期待~
 
 <hr>
 
-创建项目
+如何使用？
 
+1，简单易上手，创建项目命令
+
+```
 codecli create your_project_name
+```
 
-自动拉取项目模板、安装项目依赖、打开浏览器 http://localhost:8080/、自动启动项目
+2,自动拉取项目模板、安装项目依赖、打开浏览器 http://localhost:8080/、自动启动项目
+
+<hr/>
+
+### 因为时间原因，部分功能模块正在全力开发中...
