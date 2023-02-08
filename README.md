@@ -1,13 +1,14 @@
 # 说明文档
 
-## codecli: 帮助你快速搭建和开发前端项目的 CLI
-
-> 想不起来其他名字，以这个命名吧~
+## shellcli: 帮助你快速搭建和开发前端项目的 CLI
 
 如何安装？
+可以使用下列任一命令安装这个新的包：
 
 ```
-npm install codecli -g
+npm install shell-cli -g
+# OR
+yarn global add shell-cli
 
 ```
 
@@ -18,9 +19,10 @@ npm install codecli -g
 如何使用？
 
 1，简单易上手，创建项目命令
+运行以下命令来创建一个新项目：
 
 ```
-codecli create your_project_name
+shellcli create hello-world
 ```
 
 2,自动拉取项目模板、安装项目依赖、打开浏览器 http://localhost:8080/、自动启动项目
