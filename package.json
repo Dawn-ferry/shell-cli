@@ -25,6 +25,7 @@
     "fs-extra": "^11.1.0",
     "handlebars": "^4.7.7",
     "inquirer": "^8.2.5",
-    "log-symbols": "^4.1.0"
+    "log-symbols": "^4.1.0",
+    "lru-cache": "^7.14.1"
   }
 }
