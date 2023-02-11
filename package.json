@@ -1,8 +1,12 @@
 {
   "name": "shell-cli",
-  "author": "hs",
-  "version": "1.1.6-Alpha",
+  "version": "1.1.7-Alpha",
   "description": "shellcli for rapid construction project",
+  "author": {
+    "name": "hs",
+    "email": "840136611@qq.com",
+    "url": "http://rookie.iblogger.org"
+  },
   "bin": {
     "shellcli": "bin/shellcli.js"
   },
