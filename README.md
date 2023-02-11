@@ -12,7 +12,7 @@ npm install shell-cli -g
 yarn global add shell-cli
 ```
 
-### 目前支持 Vue，后期会新增 React，Angular 相关模版，尽情期待~
+### 目前支持 Vue，后期会新增 React，Angular 相关模版~
 
 <hr>
 
@@ -31,4 +31,4 @@ shellcli create hello-world
 
 <hr/>
 
-### 部分功能模块正在全力开发中，敬请期待...
+### 部分功能模块正在全力开发中...
