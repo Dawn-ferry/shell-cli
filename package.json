@@ -1,11 +1,14 @@
 {
   "name": "shell-cli",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "shellcli for rapid construction project",
   "author": {
     "name": "hs",
     "email": "840136611@qq.com",
     "url": "http://rookie.iblogger.org"
+  },
+  "bugs": {
+    "url": "https://github.com/Dawn-ferry/shell-cli/issues"
   },
   "bin": {
     "shellcli": "bin/shellcli.js"
